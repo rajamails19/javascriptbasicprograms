@@ -1,8 +1,8 @@
-sdefsfsd// JavaScript program to traverse an array
+34834sdfsdfsfsdfs12121q2323213awrewqrwq123213sdefsfsd// JavaScript program to traverse an array
 
 // Define an array
 let arr = [1, 2, 3, 4];
-
+34834sdfsdfsfsdfs12121q2323213awrewqrwq123213
 // Get the length of the array
 let N = arr.length;
 
