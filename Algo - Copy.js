@@ -1,4 +1,4 @@
-34834sdfsdfsfsdfs12121q2323213awrewqrwq123213sdefsfsd// JavaScript program to traverse an array
+// JavaScript program to traverse an array
 
 // Define an array
 let arr = [1, 2, 3, 4];
