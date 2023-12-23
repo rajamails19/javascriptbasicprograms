@@ -1,7 +1,8 @@
 // JavaScript program to traverse an array
 
 // Define an array
-let arr = [1, 2, 3, 4];
+let arr = [1, 2, 3, 4123456789012345];
+
 
 // Get the length of the array
 let N = arr.length;
