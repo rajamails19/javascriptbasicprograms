@@ -4,6 +4,7 @@
 let arr = [1, 2, 3, 4]
 123
 
+
 // Get the length of the array
 let N = arr.length;
 
