@@ -4,7 +4,6 @@
 let arr = [1, 2, 3, 4]
 12
 
-
 // Get the length of the array
 let N = arr.length;
 
