@@ -2,7 +2,7 @@
 
 // Define an array
 let arr = [1, 2, 3, 4]
-12241283
+1224128
 
 // Get the length of the array
 let N = arr.length;
