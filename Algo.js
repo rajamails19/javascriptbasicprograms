@@ -2,7 +2,7 @@
 
 // Define an array
 let arr = [1, 2, 3, 4]
-10th 136842169_
+10th 136842169
 // Get the length of the array
 let N = arr.length;
 
