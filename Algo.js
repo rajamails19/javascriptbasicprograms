@@ -3,7 +3,7 @@
 
 // Define an array
 let arr = [1, 2, 3, 4]
-1234567890q2 1234
+1234567890q2 123
 // Get the length of the array
 let N = arr.length;
 
