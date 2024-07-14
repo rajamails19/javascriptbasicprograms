@@ -3,7 +3,7 @@
 
 // Define an array
 let arr = [1, 2, 3, 4]
-
+1234567890q2 12345678 
 
 
 // Get the length of the array
