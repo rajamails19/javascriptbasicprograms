@@ -7,7 +7,7 @@ function search(arr, x) {
     return -1;
 }
 
-123
+12
 // Driver code
 let arr = [2, 3, 4, 10, 40];
 let x = 10;
