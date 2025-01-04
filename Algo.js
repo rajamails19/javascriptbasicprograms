@@ -1,5 +1,5 @@
 
-// JavaScript program to traverse an array
+// JavaScript program  traverse array
 
 // Define an array
 let arr = [1, 2, 3, 4]
