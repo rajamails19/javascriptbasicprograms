@@ -3,7 +3,7 @@
 
 // Define an array
 let arr = [1, 2, 3, 4]
-1224
+122
 
 
 // Get the length of the array
