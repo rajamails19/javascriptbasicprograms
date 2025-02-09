@@ -1,4 +1,4 @@
-w34
+w3
 // JavaScript program  traverse array
 
 // Define an array
