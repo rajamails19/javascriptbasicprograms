@@ -1,6 +1,6 @@
 
 // JavaScript program  traverse array
-12345
+1234
 
 // Define an array
 let arr = [1, 2, 3, 4]
