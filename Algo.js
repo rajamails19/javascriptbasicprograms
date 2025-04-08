@@ -1,4 +1,4 @@
- 
+12345 
 // JavaScript program  traverse array
 
 
