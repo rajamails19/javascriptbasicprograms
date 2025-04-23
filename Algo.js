@@ -1,5 +1,4 @@
 
-
 // JavaScript program  traverse array
 
 
