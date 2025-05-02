@@ -1,4 +1,4 @@
-1223
+122
 
 // JavaScript program  traverse array
 
