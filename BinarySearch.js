@@ -1,4 +1,4 @@
-1234
+123
 
 function search(arr, x) {
     for (let i = 0; i < arr.length; i++) {
