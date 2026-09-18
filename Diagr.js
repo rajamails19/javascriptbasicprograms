@@ -1,7 +1,7 @@
 function search(arr, x) {
     for (let i = 0; i < arr.length; i++) {
         if (arr[i] === x) {
-            return i;1
+            return i;
         }
     }
     return -1;
